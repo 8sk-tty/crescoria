@@ -1,0 +1,13 @@
+{
+  "itemGroup.crescoria": "Example Mod Tab",
+  "block.crescoria.example_block": "Example Block",
+  "item.crescoria.example_item": "Example Item",
+
+  "crescoria.configuration.title": "Crescoria Configs",
+  "crescoria.configuration.section.crescoria.common.toml": "Crescoria Configs",
+  "crescoria.configuration.section.crescoria.common.toml.title": "Crescoria Configs",
+  "crescoria.configuration.items": "Item List",
+  "crescoria.configuration.logDirtBlock": "Log Dirt Block",
+  "crescoria.configuration.magicNumberIntroduction": "Magic Number Text",
+  "crescoria.configuration.magicNumber": "Magic Number"
+}
